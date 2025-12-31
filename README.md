@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ3OXQ5ZW13Y2NuNHptbjlvdTdzcXR1dDRuNXR4eHlpem5pMjE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="100" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ3OXQ5ZW13Y2NuNHptbjlvdTdzcXR1dDRuNXR4eHlpem5pMjE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="220" />
 
   <h1>👋 Rafa | Desenvolvedora em formação</h1>
 
