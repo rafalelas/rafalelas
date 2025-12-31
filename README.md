@@ -45,14 +45,6 @@ Sistema em Laravel para gerenciamento de equipes e usuários
 - GitHub: https://github.com/rafalelas  
 - LinkedIn: https://www.linkedin.com/in/rafaela-vschneider/
 
-  ## 📊 GitHub Stats
-
-![Rafa GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafalelas&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalelas&layout=compact&theme=radical)
-
-
-
 ---
 
 ⭐ Estou sempre aprendendo e construindo projetos novos.  
