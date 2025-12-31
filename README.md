@@ -1,23 +1,29 @@
-# 👋 Rafa | Desenvolvedora em formação
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ3OXQ5ZW13Y2NuNHptbjlvdTdzcXR1dDRuNXR4eHlpem5pMjE4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif" width="100" />
 
-Backend, banco de dados e sistemas web com Laravel.
+  <h1>👋 Rafa | Desenvolvedora em formação</h1>
 
----
+  <p>Backend, banco de dados e sistemas web com Laravel.</p>
 
-## 🛠️ Stack
-PHP • Laravel • MySQL • JavaScript • HTML • CSS • Git
+  <br/>
 
----
+  <h2>🛠️ Tecnologias</h2>
 
-## 🚀 Em foco
-Criando projetos reais para me tornar desenvolvedora júnior.
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+  </p>
 
----
+  <br/>
 
-## 🧩 Projeto
-[Projeto Equipes](https://github.com/rafalelas/ProjetoEquipes)
+  <p>🚀 Criando projetos reais para me tornar desenvolvedora júnior.</p>
 
----
+  <br/>
 
-## 📊 GitHub
-![Rafa GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafalelas&show_icons=true&theme=radical)
+  <p>🧩 <a href="https://github.com/rafalelas/ProjetoEquipes">Projeto Equipes</a></p>
+</div>
