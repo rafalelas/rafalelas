@@ -26,4 +26,5 @@
   <br/>
 
   <p>🧩 <a href="https://github.com/rafalelas/ProjetoEquipes">Projeto Equipes</a></p>
+  <p>🧩 <a href="https://github.com/rafalelas/caixaDiario">Caixa Diário</a></p>
 </div>
