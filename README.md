@@ -25,6 +25,7 @@
 
   <br/>
 
-  <p>🧩 <a href="https://github.com/rafalelas/ProjetoEquipes">Projeto Equipes</a></p>
-  <p>🧩 <a href="https://github.com/rafalelas/caixaDiario">Caixa Diário</a></p>
+  <p>🚀 <a href="https://github.com/rafalelas/ProjetoEquipes">Projeto Equipes</a></p>
+  <p>🚀 <a href="https://github.com/rafalelas/caixaDiario">Caixa Diário</a></p>
+  <p>🎓 <a href="https://github.com/Mateus2787/be-ut_version"> Be-Ut</a></p>
 </div>
